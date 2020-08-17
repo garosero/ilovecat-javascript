@@ -1,2 +1,5 @@
 # ilovecat
-프로그래머스 2020 Dev-Matching : 웹 프론트엔드 과제 복기
+
+https://github.com/woohyeonjo/ilovecat-javascript 의 프로젝트를 참고함
+
+프로그래머스 2020 Dev-Matching
