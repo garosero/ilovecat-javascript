@@ -33,6 +33,8 @@ export default class SearchResult {
     itemGroup.className = "item-group";
 
     this.data.map((cat) => {
+      console.log(cat);
+      console.log(typeof cat);
       new Item(itemGroup, cat, modalWrapper);
     });
 
